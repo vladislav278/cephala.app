@@ -1,0 +1,16 @@
+{
+  "name": "CephalaTech Mobile",
+  "short_name": "Cephala",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#020617",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3062/3062634.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
